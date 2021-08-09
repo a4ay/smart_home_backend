@@ -1,0 +1,1 @@
+{"azay":{"switch":[{"pin":17,"onUse":true,"switchName":"Switch A","state":false},{"pin":22,"onUse":true,"switchName":"Switch B","state":true},{"pin":23,"onUse":true,"switchName":"Switch C","state":false},{"pin":27,"onUse":true,"switchName":"Switch D","state":false}]}}
